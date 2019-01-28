@@ -8,4 +8,3 @@ new_array = []
   new_array
 end
 
-my
